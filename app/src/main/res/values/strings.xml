@@ -1,3 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PajeAPP</string>
+    <string name="logo_description">Descrição do logo</string>
+    <string name="history">Histórico</string>
+    <string name="category">Categorias</string>
+    <string name="register">Registrar</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="by_category">Despesas por categoria</string>
+    <string name="quinta_feira_02">Quinta feira, 02</string>
+    <string name="quarta_feira_01">Quarta feira, 01</string>
+    <string name="expense_value">-R$ 420,00</string>
+    <string name="categor">Descrição da categoria</string>
+    <string name="dashboar">dashboard</string>
+    <string name="retur">return</string>
+    <string name="food">Alimentação</string>
+    <string name="app_name">app_name</string>
+    <string name="housing">Moradia</string>
+    <string name="transport">Transporte</string>
+    <string name="leisure">Lazer</string>
+    <string name="revenue_expenses">Receita X Despesas</string>
+    <string name="comparison_expenses">Comparação gastos</string>
+    <string name="avoid_compulsive_spending">Evite compras compulsivas!</string>
+    <string name="ask_yourself">Pergunte-se: Eu realmente preciso disso?</string>
 </resources>
